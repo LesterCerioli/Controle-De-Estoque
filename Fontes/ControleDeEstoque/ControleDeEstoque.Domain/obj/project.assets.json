@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "Z:\\Repositorios\\ControleDeEstoque\\ControleDeEstoque\\ControleDeEstoque.Domain\\ControleDeEstoque.Domain.csproj",
+      "projectUniqueName": "Z:\\Repositorios\\GitHub\\Controle-De-Estoque\\Fontes\\ControleDeEstoque\\ControleDeEstoque.Domain\\ControleDeEstoque.Domain.csproj",
       "projectName": "ControleDeEstoque.Domain",
-      "projectPath": "Z:\\Repositorios\\ControleDeEstoque\\ControleDeEstoque\\ControleDeEstoque.Domain\\ControleDeEstoque.Domain.csproj",
+      "projectPath": "Z:\\Repositorios\\GitHub\\Controle-De-Estoque\\Fontes\\ControleDeEstoque\\ControleDeEstoque.Domain\\ControleDeEstoque.Domain.csproj",
       "packagesPath": "C:\\Users\\leste\\.nuget\\packages\\",
-      "outputPath": "Z:\\Repositorios\\ControleDeEstoque\\ControleDeEstoque\\ControleDeEstoque.Domain\\obj\\",
+      "outputPath": "Z:\\Repositorios\\GitHub\\Controle-De-Estoque\\Fontes\\ControleDeEstoque\\ControleDeEstoque.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
