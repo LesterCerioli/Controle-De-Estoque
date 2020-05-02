@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o+NRbtWxc96Z6GlUZcYo5bizAB0T5aX/AFuVGO9j0aHiCa9zmSv68b9/8Q4KttmQ1eqFk67oHSY99cA1wUwx4A==",
+  "dgSpecHash": "PvuTW/2hwKbydGjFGKgLrTCSlJ72Idz9prN5ZJgpHP3DmlXSBzOfLd8snDG6a+brWBgRE9Xc9ul+qeCR1dQThg==",
   "success": true,
-  "projectFilePath": "Z:\\Repositorios\\ControleDeEstoque\\ControleDeEstoque\\ControleDeEstoque.Domain\\ControleDeEstoque.Domain.csproj",
+  "projectFilePath": "Z:\\Repositorios\\GitHub\\Controle-De-Estoque\\Fontes\\ControleDeEstoque\\ControleDeEstoque.Domain\\ControleDeEstoque.Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
